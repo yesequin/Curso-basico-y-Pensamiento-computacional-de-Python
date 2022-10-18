@@ -1,5 +1,7 @@
 # PYTHON
 
+[Version en notion](https://www.notion.so/PYTHON-c494d8d949264bfdb9488523b2d89ac4) ![notion](images_Python/notion.PNG)
+
 - PEQUEÑA HISTORIA
     
     “Primera computadora” creada por los griegos, calcula la posición del sol, luna y algunas constelaciones.
